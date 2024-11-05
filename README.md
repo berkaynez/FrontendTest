@@ -1,2 +1,2 @@
-# FrontendTest
-Frontend Practise
+# MyFrontendEducation
+Frontend Practise with coderspace.com
